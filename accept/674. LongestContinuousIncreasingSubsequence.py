@@ -1,4 +1,7 @@
+"""
 
+Easy: 100%
+"""
 
 class Solution:
     def findLengthOfLCIS(self, nums):

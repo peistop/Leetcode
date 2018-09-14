@@ -1,7 +1,7 @@
 """
 661. Image Smoother
 
-Easy: 49.60
+Easy: 49.60%
 
 Given a 2D integer matrix M representing the gray scale of an 
 image, you need to design a smoother to make the gray scale of 

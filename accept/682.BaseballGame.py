@@ -1,4 +1,6 @@
 """
+
+Easy: 99.84%
 """
 class Solution:
     def calPoints(self, ops):
